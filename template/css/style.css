@@ -1,0 +1,4 @@
+/* Style.css */
+td, table, div, img { border:0; }
+h1,h2,h3,h4,h5,h6   { color: #09c; font-family: 'Arial, Sans-serif'; }
+html                { font-size:86%; }
