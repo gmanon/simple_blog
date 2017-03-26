@@ -1,4 +1,35 @@
 /* Style.css */
+/*
+ --- List of template elements
+div.top
+div.top-menu
+div.menu
+
+div#header .header
+span.header
+td.main
+div#content .content
+div.breadcrumbs
+div#main-image .main-image
+h2#page-title .page-title
+div.date
+span.pagination
+td.rigt_side
+div#side_menu .side_menu
+div#user_login .user_login
+div#comments
+div#form .form
+div#footer .footer
+div.menu
+div.copy */
+
+@page {}
+html                { font-size:86%; }
+
 td, table, div, img { border:0; }
 h1,h2,h3,h4,h5,h6   { color: #09c; font-family: 'Arial, Sans-serif'; }
-html                { font-size:86%; }
+img, td             { padding-right: 10px; }
+
+
+
+
